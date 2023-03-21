@@ -1,12 +1,12 @@
-# Welcome to the profile of Antje Witte 👋
+# Welcome to the profile of Antje Witte 🐧
 
 ---
 
-<center><table><tr><td> 
 As a studied food scientist I worked in quality managment for 4 years before deciding to train in Web development.  
 
-
-1. **Work experience as food scientist:** 
+<center><table><tr><td> 
+  
+**Work experience as food scientist 🍭 :** 
 - HACCP (hygene concept)
 - Customer complaints
 - IFS certification
@@ -19,7 +19,20 @@ As a studied food scientist I worked in quality managment for 4 years before dec
 
 </td></tr></table> 
 
+<center><table><tr><td>
+  
+![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png)
 
+</td><td> 
+
+  **Work experience as web developer 🎧 :** 
+- HTML
+- CSS
+- Javascript
+- React
+- Github
+
+</td></tr></table> 
 
 <!--
 **AntjeWitte/antjewitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
